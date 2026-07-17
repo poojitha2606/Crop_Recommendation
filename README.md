@@ -14,3 +14,5 @@ Features
 - User-friendly Streamlit interface
 - Real-time recommendations
 
+Project Link 
+  🔗 https://croprecommendation-itqqsra6jimyj2k23br8we.streamlit.app/#crop-recommendation-system
